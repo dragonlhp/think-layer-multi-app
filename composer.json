@@ -1,11 +1,11 @@
 {
-    "name": "topthink/think-multi-app",
+    "name": "dragonlhp/think-layer-multi-app",
     "description": "thinkphp6 multi app support",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "runPauli",
+            "email": "dragon_lhp@163.com"
         }
     ],
     "require": {
@@ -24,5 +24,11 @@
             ]
         }
     },    
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
 }
