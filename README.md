@@ -1,4 +1,4 @@
-# think-multi-app
+# think-layer-multi-app
 
 用于ThinkPHP6+的多应用支持
 
